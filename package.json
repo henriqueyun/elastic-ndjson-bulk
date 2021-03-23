@@ -1,0 +1,11 @@
+{
+  "name": "node-streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "esclient.js",
+  "scripts": {
+    "start": "node ./src/bulk.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
